@@ -33,3 +33,13 @@ By examining the patterns and relationships between chronic conditions and demog
 7. Are there any implementations to improve or prevent multiple chronic conditions?
 8. What are the alternatives for multiple chronic conditions treatments/ are these treatments available for public health and how are they demographically distributed?
 9. What are the demographics on the highest rates of chronic conditions? 
+
+## Breakdown tasks and deadlines
+1. Incorporate data sources and potential API’s keys.
+2. Elaborate research question based on data resources
+3. Clean and format the data for analysis 
+4. Consolidate and resolve statistical analysis
+5. Geographic data analysis and geospatial data mapping 
+6. Plot data on charts (scatterplots, bars, pie, line regression)
+6. Create presentation in powerpoint
+
