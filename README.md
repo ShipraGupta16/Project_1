@@ -10,7 +10,11 @@ Prevalence of Chronic Conditions by Demographic Characteristics: A Comparative A
 
 ## Project Description and Outline
 
-Chronic disease is a condition that lasts for a year or more and requires ongoing medical attention and limits the activities of daily living. Some common examples of chronic diseases include: cancer, heart disease, stroke, diabetes, and arthritis. Chronic diseases impose a significant burden on individuals, healthcare systems, and society as a whole. To address this public health challenge, this project aims to explore the prevalence of chronic conditions and their associations with demographic regions.
+Nearly 40% of Americans (~133M people) live with at least one chronic disease. Chronic diseases, defined by the Centers for Disease Control as “as conditions that last 1 year or more and require ongoing medical attention or limit activities of daily living or both.” These include heart disease, diabetes, and cancer, among others.
+
+According to CDC statistics, 90% of this country’s annual $4.1T health expenditure goes towards direct and indirect expenses related to chronic disease. It is estimated that 5% of the population - who are medically complex and often with  ≧2 chronic conditions - account for >50% of this spending.
+
+This project aims to characterize the demographic criteria most associated with having multiple chronic conditions (MCCs) and those associated with adverse clinical outcomes.
 
 By examining the patterns and relationships between chronic conditions and demographic characteristics, we can gain insights into the distribution, impact, and potential disparities of these conditions within specific populations.In addition to data collection, we would be performing data Cleaning, descriptive Analysis, comparative Analysis and geospatial analysis. 
 
@@ -19,8 +23,7 @@ By examining the patterns and relationships between chronic conditions and demog
 1. https://data.cms.gov/medicare-chronic-conditions/multiple-chronic-conditions/data
 2. https://www.graham-center.org/maps-data-tools/social-deprivation-index.html
 3. https://www.cdc.gov/nchs/nhis/2022nhis.htm
-4. https://datasetsearch.research.google.com/search?src=0&query=multiple%20chronic%20conditions&docid=L2cvMTFzN3A3XzgwZw%3D%3D
-5. https://www.kaggle.com/datasets/cdc/chronic-disease?resource=download
+4. https://www.kaggle.com/datasets/cdc/chronic-disease?resource=download
 
 ## Research Questions to Answer
 
