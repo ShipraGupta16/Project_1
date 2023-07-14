@@ -24,6 +24,7 @@ By examining the patterns and relationships between chronic conditions and demog
 2. https://www.graham-center.org/maps-data-tools/social-deprivation-index.html
 3. https://www.cdc.gov/nchs/nhis/2022nhis.htm
 4. https://www.kaggle.com/datasets/cdc/chronic-disease?resource=download
+5. https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system/resource/0280bb9c-4de8-4b95-9642-93f727c4d305
 
 ## Research Questions to Answer
 
@@ -36,6 +37,7 @@ By examining the patterns and relationships between chronic conditions and demog
 7. Are there any implementations to improve or prevent multiple chronic conditions?
 8. What are the alternatives for multiple chronic conditions treatments/ are these treatments available for public health and how are they demographically distributed?
 9. What are the demographics on the highest rates of chronic conditions? 
+10. How lifestyle factors influence the progression of the desease?
 
 ## Breakdown tasks and deadlines
 1. Incorporate data sources and potential API’s keys.
