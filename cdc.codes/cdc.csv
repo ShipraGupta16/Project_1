@@ -1,0 +1,75 @@
+Category,Code,Description
+Demographics,URBRRL,Geography (urban vs suburban vs rural)
+Demographics,REGION,"US Geographic Region (SE, NW)"
+Demographics,SEX_A,Sex
+Demographics,HISP_A,Hispanic ethnicity
+Demographics,HISPALLP_A,Hispanic and other ethnicity (mixed)
+Demographics,RACEALLP_A,Any other race (who did not identify as Hispanic)
+Demographics,HISDETP_A,Hispanic origin (Mexican vs. Other)
+Demographics,EDUCP_A,Educational attainment
+Demographics,MARSTAT_A,Current marital status
+Demographics,PARSTAT_A,Parental status (children living in household?)
+Demographics,AFVET_A,Veteran status
+Demographics,NATUSBORN_A,US born or immigrant
+Demographics,POVRATTC_A,poverty status (based on family poverty ratio - a measure of poverty used by the CDC)
+Demographics,HOUTENURE_A,house owner or renter?
+Demographics,HOUGVASST_A,is rent gov. subsidized?
+Demographics,FDSCAT4_A,household food security / insecurity (past 30d)
+Health Status / Chronic Diseases,PHSTAT_A,Health Status (self-reported)
+Health Status / Chronic Diseases,LSATIS4_A,Life Satisfaction (self-reported)
+Health Status / Chronic Diseases,ANXFREQ_A,frequency of anxiety feelings
+Health Status / Chronic Diseases,ANXMED_A,medicated for anxiety
+Health Status / Chronic Diseases,ANXLEVEL_A,severity level of anxiety
+Health Status / Chronic Diseases,DEPMED_A,medicated for depression
+Health Status / Chronic Diseases,DEPLEVEL_A,severity level of depression
+Health Status / Chronic Diseases,DEPFREQ_A,frequency of depression feelings
+Health Status / Chronic Diseases,MHTHRPY_A,mental health counseling / visit (past 12m)
+Health Status / Chronic Diseases,MHTPYNOW_A,mental health counseling / visit (currently)
+Health Status / Chronic Diseases,HYPEV_A,Hypertension
+Health Status / Chronic Diseases,CHLEV_A,Cholesterol
+Health Status / Chronic Diseases,CHDEV_A,Coronary Heart Disease
+Health Status / Chronic Diseases,ASEV_A,Asthma
+Health Status / Chronic Diseases,CANEV_A,Cancer
+Health Status / Chronic Diseases,DIBTYPE_A,Diabetes (typpe of diabetes: Type 1 vs Type 2)
+Health Status / Chronic Diseases,COPDEV_A,COPD
+Health Status / Chronic Diseases,ARTHEV_A,Arthritis
+Health Status / Chronic Diseases,DEMENEV_A,Dementia
+Health Status / Chronic Diseases,ANXEV_A,Anxiety Disorder
+Health Status / Chronic Diseases,DEPEV_A,Depression
+Health Status / Chronic Diseases,CFSEV_A,Chronic Fatigue Syndrome
+Health Status / Chronic Diseases,EPIEV_A,Epilepsy
+Health Status / Chronic Diseases,BMICAT_A,BMI (Obesity)
+Health Status / Chronic Diseases,DIFF_A,Difficulty walking (limited mobility)
+Health Status / Chronic Diseases,SOCERRNDS_A,"Difficulty doing errands alone (due to physical, social, issues)"
+Health Insurance,NOTCOV_A,Health Insurance  (has or doesn't have)
+Health Insurance,COVER_A,Type of Insurance (Adults <65yo)
+Health Insurance,COVER65_A,Type of Insurance (Adults >65yo)
+Health Insurance,PLNWRKR1_A,"Source of private insurance (e.g., employer, school, affordable care act)"
+Health Insurance,PRRXCOV1_A,Insurance pays for at least some drug costs
+Health Insurance,HILAST_A,Time since last insured (for uninsured)
+Health Insurance,RSNHICOST_A,Uninsured b/c insurance unaffordable
+Health Insurance,PAYWORRY_A,Worried about paying health bills
+Access to Care,DENPREV_A,Time since last dental visit
+Access to Care,LASTDR_A,Time since last doctor visit
+Access to Care,USUALPL_A,Has a usual place they go for healthcare
+Access to Care,TRANSPOR_A,"Has lack of reliable transportation kept them from going to medical appointments, other daily activities? (past 12m)"
+Access to Care,MEDDL12M_A,Delayed medical care due to cost (past 12m)
+Access to Care,ABINSUR_A,Delayed medical care due to difficulty finding doctor/clinic (past 12m)
+Access to Care,ABAVAIL_A,Delayed medical care due to lack of appointment availability (past 12m)
+Access to Care,ABOPEN_A,Delayed medical care b/c couldn't get to doctor's office (past 12m)
+Access to Care,ABTOOLONG_A,Delayed medical b/c doctor's office too far from home (past 12m)
+Access to Care,MHTHND_A,Delayed mental health care due to cost (past 12m)
+Access to Care,VIRAPP12M_A,Telehealth visit (past 12m)
+Access to Care,ACCSSHOM_A,Has internet access from home
+Access to Care,HITLOOK_A,Used internet to lookup health / medical information (past 12m)
+Access to Care,HITCOMM_A,Used internet to communicate with doctor's office (past 12m)
+Access to Care,HITTEST_A,Used internet to lookup health/ test results
+Lifestyle / Chronic Disease Indicators,RX12M_A,took presciription medication (past 12m)
+Lifestyle / Chronic Disease Indicators,RXLS12M_A,took less prescirpition meds to save money (past 12m)
+Lifestyle / Chronic Disease Indicators,SMKCIGST_A,smoker (Y/N) / smoking frequency
+Lifestyle / Chronic Disease Indicators,DRKSTAT_A,alcohol  (Y/N) / drinking fequency
+Lifestyle / Chronic Disease Indicators,MODFREQW_A,moderate physical activity (Y/N) / frequency
+Lifestyle / Chronic Disease Indicators,VIGFREQW_A,vigorous physical activity (Y/N) / frequency
+Lifestyle / Chronic Disease Indicators,PA18_05R_A,met 2018 physical activity guidelines = 150+ min/wk aerobic & 2+ times/wk strength training
+Lifestyle / Chronic Disease Indicators,SLPREST_A,"sleep quality (""over past 30 days, how often did you wake up feeling well-rested?"")"
+Lifestyle / Chronic Disease Indicators,SLPFLL_A,"sleep quality (""over past 30 days, how often did you have trouble falling asleep?"")"
